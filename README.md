@@ -12,7 +12,7 @@ Cada vez que llega un proovedor, nosotros o alguno de nuestros amigos lo recibe,
 El objetivo es que las heladeras estén lo más llenas posibles y lo más rápido posible.
 
 ## Parte2
-Agregar beodes que consumen todo el tiempo cervezas.
+Agregar beodes que consumen todo el tiempo cervezas, de acuerdo a las siguientes pautas:
 
 1. Consumen cada vez una cerveza de una heladera al azar, y por supuesto nadie más puede usar esa heladera mientras el beode saca su cerveza (pues ninguna heladera puede ser usada por más de una persona a la vez).
 1. Hay beodes de diferentes gustos, algunes solamente consumen botellas, otres solamente latas, y otres ambos tipos de envase. 
