@@ -11,7 +11,7 @@ Cada vez que llega un proovedor, nosotros o alguno de nuestros amigos lo recibe,
 
 El objetivo es que las heladeras estén lo más llenas posibles y lo más rápido posible.
 
-## Parte2
+## Parte 2
 Agregar beodes que consumen todo el tiempo cervezas, de acuerdo a las siguientes pautas:
 
 1. Consumen cada vez una cerveza de una heladera al azar, y por supuesto nadie más puede usar esa heladera mientras el beode saca su cerveza (pues ninguna heladera puede ser usada por más de una persona a la vez).
@@ -20,3 +20,6 @@ Agregar beodes que consumen todo el tiempo cervezas, de acuerdo a las siguientes
 1. Cada beode tiene un límite de consumo, luego del cual se desmaya y deja de consumir.
 
 El objetivo sigue siendo que las heladeras estén lo más llenas posibles y lo más rápido posible. Ojo, ahora las heladeras pueden ser llenadas tanto desde el depósito como desde lo que nos entregan los proveedores.
+
+## Parte 3
+Contestar las preguntas teóricas del archivo `final_concurrente_mar2021_preguntasTeoricas.pdf`, subiendo las respuestas a un archivo en el mismo repo donde se encuentra el código.
